@@ -1,4 +1,4 @@
-# belly-button-challenge
+# D3 Javascript library Biodiversity Dashboard
 
 https://wook22.github.io/belly-button-challenge/
 

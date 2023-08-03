@@ -1,6 +1,6 @@
 # D3 Javascript library Biodiversity Dashboard
 
-https://wook22.github.io/belly-button-challenge/
+https://wook22.github.io/Biodiversity_Analysis_Dashboard/
 
 ## Instructions
 Complete the following steps:
